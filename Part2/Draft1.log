@@ -1,0 +1,42 @@
+Circuit: * C:\Users\moein\iCloudDrive\SUT\S4\Electronic II\ElectronicsII_Project_Phase1\Part2\Draft1.asc
+
+Direct Newton iteration for .op point succeeded.
+Semiconductor Device Operating Points:
+                        --- Bipolar Transistors ---
+Name:       q3          q2          q1
+Model:      npn         npn         npn
+Ib:       1.00e-06    1.00e-06    1.98e-08
+Ic:       1.00e-04    1.00e-04    1.98e-06
+Vbe:      7.15e-01    7.15e-01    6.13e-01
+Vbc:     -6.13e-01   -8.28e+00   -7.66e+00
+Vce:      1.33e+00    8.99e+00    8.28e+00
+BetaDC:   1.00e+02    1.00e+02    1.00e+02
+Gm:       3.87e-03    3.87e-03    7.65e-05
+Rpi:      2.59e+04    2.59e+04    1.31e+06
+Rx:       0.00e+00    0.00e+00    0.00e+00
+Ro:       5.12e+24    0.00e+00    0.00e+00
+Cbe:      0.00e+00    0.00e+00    0.00e+00
+Cbc:      0.00e+00    0.00e+00    0.00e+00
+Cjs:      0.00e+00    0.00e+00    0.00e+00
+BetaAC:   1.00e+02    1.00e+02    1.00e+02
+Cbx:      0.00e+00    0.00e+00    0.00e+00
+Ft:       0.00e+00    0.00e+00    0.00e+00
+
+
+
+Date: Fri Apr 11 20:16:24 2025
+Total elapsed time: 0.105 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 13
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 6
+fillins = 0
+solver = Normal
+Matrix Compiler1: 316 bytes object code size
+Matrix Compiler2: 496 bytes object code size
